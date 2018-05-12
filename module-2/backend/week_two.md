@@ -7,7 +7,9 @@ Note: When you're done, submit a PR.
 ### Week 2 Questions
 
 1.  At a high level, what is ActiveRecord? What does it do/allow you to do?
+
     * enables creation, use, and storage for data / data tables.
+
 2.  Assume you have the following model:
 
 ```ruby
